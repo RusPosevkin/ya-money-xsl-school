@@ -1,0 +1,27 @@
+body {
+	background:url(http://files.storeland.ru/web/upload/sitefiles/6/505/504441/ya.jpg) center top no-repeat;
+    font: bold 1em serif;
+    padding: 0;
+    margin: 0;
+	min-width: 700px;
+}
+
+.column {
+    float: left;
+	background: rgb(255, 255, 255);
+    border: 10px solid #369;
+    width: 20%;
+    height: 100%;
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.row
+{
+	width: 100%;
+    margin-bottom: 20px;
+}
+
+.first {
+    clear: left;
+}
